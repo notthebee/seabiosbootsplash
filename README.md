@@ -1,6 +1,6 @@
 ## How to add your custom bootsplash to SeaBIOS  
   
-![bootsplash](bootsplash.jpg)  
+![bootsplash](photo.jpg)  
   
 **WARNING!** Proceed at your own risk! Be sure to have a Raspberry Pi and a Pomona clip handy in case you mess up.  
   
