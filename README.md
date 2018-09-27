@@ -29,7 +29,7 @@ $ cat layout.txt
 0x00000000:0x007fffff ifdmegbe 
 0x00800000:0x00bfffff bios
 ```
-Finally, flash the ROM:
+**4. Flashing the ROM**
 ```
 X230:
 # flashrom -p internal --layout layout.txt --image bios -w file.rom 
@@ -37,3 +37,4 @@ X230:
 X220:
 # flashrom -p internal:laptop=force_I_want_a_brick --image bios -w file.rom 
 ```
+Have fun with your new bootsplash!
