@@ -7,6 +7,7 @@
 **1. Saving the image**  
 Open the desired image and export it as JPG, in the saving options change "Subsampling" to 4:2:0 and uncheck "Progressive":  
 ![screenshot](screenshot.png)  
+image taken from: https://puri.sm/posts/librem-13-coreboot-report-february-25th-2017/
   
 The output image must be 1024px wide and 768px tall. Don't forget that the X230's screen is 16:9, so the it will be additionally shrinked. 
 **2. Making a dump of up your current ROM**  
