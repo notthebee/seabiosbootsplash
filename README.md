@@ -5,7 +5,7 @@
 **WARNING!** Proceed at your own risk! Be sure to have a Raspberry Pi and a Pomona clip handy in case you mess up.  
   
 **1. Saving the image**  
-Open the desired image and export it as JPG, in the saving options change "Subsampling" to 4:2:0 and uncheck "Progressive":  
+Open the desired image in GIMP and export it as JPG, in the saving options change "Subsampling" to 4:2:0 and uncheck "Progressive":  
 ![screenshot](screenshot.png)  
 <sub><sup>screenshot taken from: https://puri.sm/posts/librem-13-coreboot-report-february-25th-2017/</sub></sup>
   
